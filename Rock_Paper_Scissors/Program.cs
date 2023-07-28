@@ -15,7 +15,7 @@ namespace Training;
 
         Console.WriteLine(bot.whoWins(bot, alex));
 
-        Console.WriteLine("Hello");
+        Console.WriteLine("Hello my God");
 
         Console.ReadLine();
 
